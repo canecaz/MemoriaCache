@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemoriaCache:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemoriaCache_jar</output-path>
+    <root id="archive" name="MemoriaCache.jar">
+      <element id="module-output" name="MemoriaCache" />
+    </root>
+  </artifact>
+</component>

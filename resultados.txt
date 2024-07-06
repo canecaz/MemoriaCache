@@ -1,0 +1,21 @@
+Política de escrita: 0 (write-through)
+Tamanho da linha: 128 bytes
+Número de linhas: 8
+Número de conjuntos: 2
+Associatividade: 4
+Hit Time: 10 ns
+Política de substituição: LRU
+Tempo de leitura da MP: 60 ns
+Tempo de escrita da MP: 60 ns
+Arquivo de entrada utilizado: oficial.cache
+Endereços no arquivo de entrada: 51200 (6144 de escrita e 45056 de leitura)
+ 
+Cache hits: 26112
+Cache misses: 25088
+Leituras na MP: 25088
+Escritas da MP: 6144
+Total de escritas e leituras na MP: 31232
+Taxa de acerto de escrita: 66,6667%
+Taxa de acerto de leitura: 48,8636%
+Taxa de acerto global: 50,9980%
+Tempo médio de acesso: 39,4012 ns

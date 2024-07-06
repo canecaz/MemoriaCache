@@ -1,0 +1,10 @@
+Política de escrita (0 - write-through | 1 - write-back): 0
+Tamanho da linha (potência de 2): 128
+Número de linhas (potência de 2): 8
+Associatividade (potência de 2): 4
+Hit time (em nanosegundos): 10
+Política de substituição (LFU | LRU | Random): lru
+Tempo de leitura da MP (em nanosegundos): 60
+Tempo de leitura da MP (em nanosegundos): 60
+Nome do arquivo texto que será gerado: resultados
+Arquivo de entrada (teste | oficial): oficial
